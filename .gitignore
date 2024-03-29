@@ -1,0 +1,34 @@
+
+### .gitignore
+
+```gitignore
+# ビルドしたバイナリファイル
+/bootstrap
+*.exe
+*.exe~
+bootstrap
+
+# 依存関係ディレクトリ
+/vendor/
+
+# オブジェクトファイル、アーカイブファイル
+*.o
+*.a
+
+# ログファイル
+*.log
+
+# zip
+*.zip
+
+# MacOS ファイルシステム
+.DS_Store
+
+# VSCode 設定
+.vscode/
+
+# IDE設定
+.idea/
+
+# ノードモジュール
+node_modules/
