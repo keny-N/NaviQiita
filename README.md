@@ -8,7 +8,7 @@ NaviQiitaは、Qiitaのおすすめ記事を紹介するAlexaスキルです。G
 
 ## 始め方
 
-Qiitaに記事を投稿しているのでそちらをご参考下さい
+[Qiita](https://qiita.com/keny-N/items/47b8dd299e65b6ca85bb)に記事を投稿しているのでそちらをご参考下さい
 
 ## その他
 
